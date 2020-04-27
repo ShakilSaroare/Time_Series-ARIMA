@@ -6,6 +6,7 @@ Created on Sun Apr 26 16:14:37 2020
 """
 
 import numpy as np
+import pandas as pd
 from scipy.optimize import minimize
 from scipy import stats
 import matplotlib.pyplot as plt
